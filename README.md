@@ -1,39 +1,59 @@
-# Ecommerce Purchases - Data Analysis Project
+# 🐼 Pandas Data Analysis Portfolio
 
-## 📌 Objective
-Explore and analyze an ecommerce dataset using Python and Pandas to extract meaningful insights.
+Welcome to my collection of **Pandas-based data analysis projects**, where I explore various real-world datasets to uncover insights, trends, and anomalies using Python. These projects demonstrate my ability to clean, manipulate, and analyze data effectively using the Pandas library.
 
-## 🔧 Technologies Used
+---
+
+## 📚 Projects Included
+
+### 📦 1. Ecommerce Purchases Analysis
+- Explored an ecommerce dataset to analyze customer behavior.
+- Tasks performed:
+  - Data cleaning and inspection
+  - Filtering by job title, language, and purchase time
+  - Email domain pattern analysis
+  - Purchase time trends (AM vs PM)
+
+### 💼 2. Salary Data Exploration
+- Analyzed a public salary dataset to uncover compensation patterns.
+- Tasks performed:
+  - Filtering for high/low salary ranges
+  - Identifying top job titles by pay
+  - Overtime and benefits breakdown
+  - Frequency analysis of roles
+
+
+---
+
+## 🛠️ Tools & Libraries
 - Python
 - Pandas
 - NumPy
 - Jupyter Notebook
 
-## 📊 Key Analyses Performed
-- Top 10 and last 10 rows overview
-- Dataset structure (`info()`, `describe()`)
-- Null value detection
-- High purchase amount identification
-- Language & Job title filtering
-- AM vs PM order breakdown
-- Email domain analysis
-- Time-based filtering (e.g., orders in 2021)
+---
 
-## 📁 Dataset
-"Ecommerce Purchases" - (assumed sample dataset of ecommerce transactions)
-
-## 🚀 Run the Project
-1. Clone the repo
-2. Open `project1.ipynb` in Jupyter
-3. Run all cells to see the insights
-
-## 📷 Sample Output
-- Count of French language users: X  
-- Total purchases during AM: Y  
-- Most common email domains
-
-## 📎 License
-This project is for educational purposes.
+## 📌 Skills Demonstrated
+- Data Cleaning & Wrangling
+- Filtering & Conditional Selection
+- Descriptive Statistics
+- Grouping & Aggregation
+- Exploratory Data Analysis (EDA)
 
 ---
+
+## 🚀 How to Run
+1. Clone the repository
+2. Open any notebook (e.g., `project1.ipynb`) using Jupyter
+3. Run the cells to follow the analysis step-by-step
+
+---
+
+## 📩 Contact
+If you’d like to collaborate or have any feedback, feel free to connect on [LinkedIn](https://www.linkedin.com/in/harsh-arora-0707h/).
+
+---
+
+## 📁 License
+This project portfolio is shared for learning and showcasing purposes.
 
