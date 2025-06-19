@@ -22,8 +22,21 @@ Welcome to my collection of **Pandas-based data analysis projects**, where I exp
   - Overtime and benefits breakdown
   - Frequency analysis of roles
 
+### 📈 3. Sales Analysis Project
+(File: Sales Analysis.ipynb)
+-A Power BI-style exploratory data analysis performed in Python to understand sales performance across months, products, and locations.
+-Tasks performed:
+  -Merging multiple monthly CSVs into one DataFrame
+  -Cleaning and formatting data (e.g., converting string to datetime, handling NaN)
+  -Parsing city and product information
+-Analyzing:
+ -Best month for sales
+ -City-wise performance
+ -Time-based sales trends
+ -Frequently sold product combinations
 
 ---
+
 
 ## 🛠️ Tools & Libraries
 - Python
@@ -39,6 +52,7 @@ Welcome to my collection of **Pandas-based data analysis projects**, where I exp
 - Descriptive Statistics
 - Grouping & Aggregation
 - Exploratory Data Analysis (EDA)
+- Data Visualization using Matplotlib/Seaborn 
 
 ---
 
