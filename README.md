@@ -24,17 +24,17 @@ Welcome to my collection of **Pandas-based data analysis projects**, where I exp
 
 ### 📈 3. Sales Analysis Project
 (File: Sales Analysis.ipynb)
--A Power BI-style exploratory data analysis performed in Python to understand sales performance across months, products, and locations.
--Tasks performed:
-  -Merging multiple monthly CSVs into one DataFrame
-  -Cleaning and formatting data (e.g., converting string to datetime, handling NaN)
-  -Parsing city and product information
--Analyzing:
- -Best month for sales
- -City-wise performance
- -Time-based sales trends
- -Frequently sold product combinations
-
+A Power BI-style exploratory data analysis performed in Python to understand sales performance across months, products, and locations.
+Tasks performed:
+ Merging multiple monthly CSVs into one DataFrame
+ Cleaning and formatting data (e.g., converting string to datetime, handling NaN)
+ Parsing city and product information
+Analyzing:
+ Best month for sales
+ City-wise performance
+ Time-based sales trends
+ Frequently sold product combinations
+ 
 ---
 
 
